@@ -1,5 +1,7 @@
 # Leaflet PolylineDecorator
 
+> Unfortunately, there hasn't been much activity in the original repository. So I decided to create a fork and publish this to npm to make it easier to use some improvements, especially from pleple, thanks for the great work!
+
 [![CDNJS](https://img.shields.io/cdnjs/v/leaflet-polylinedecorator.svg)](https://cdnjs.com/libraries/leaflet-polylinedecorator)
 
 A Leaflet plug-in to define and draw patterns on existing Polylines or along coordinate paths.

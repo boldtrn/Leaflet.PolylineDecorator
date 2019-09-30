@@ -1,7 +1,7 @@
 {
-  "name": "leaflet-polylinedecorator",
-  "version": "1.6.0",
-  "repository": "bbecquet/Leaflet.PolylineDecorator",
+  "name": "boldtrn-leaflet-polylinedecorator",
+  "version": "1.7.0",
+  "repository": "https://github.com/boldtrn/Leaflet.PolylineDecorator",
   "main": "./dist/leaflet.polylineDecorator.js",
   "scripts": {
     "build": "rollup -c",
